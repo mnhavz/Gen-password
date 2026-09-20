@@ -2,7 +2,7 @@
 
 Proyecto realizado en Python para generar contraseñas aleatorias.
 
-## 📌 Descripción
+##  Descripción
 
 Este programa genera una contraseña aleatoria utilizando:
 
@@ -13,12 +13,12 @@ Este programa genera una contraseña aleatoria utilizando:
 
 La longitud de la contraseña generada actualmente es de 12 caracteres.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python 3
 - Módulo random
 
-## ⚙️ Funcionamiento
+##  Funcionamiento
 
 El programa sigue estos pasos:
 
@@ -31,6 +31,7 @@ El programa sigue estos pasos:
 7. Une los caracteres para formar la contraseña.
 8. Muestra la contraseña por pantalla.
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 Clona este repositorio:
+bash git clone https://github.com/mnhavz/Gen-password
